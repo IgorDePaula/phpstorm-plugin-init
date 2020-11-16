@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.igordepaula.phpstormplugininit.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.igordepaula.phpstormplugininit.MyBundle
 
 class MyProjectService(project: Project) {
 
